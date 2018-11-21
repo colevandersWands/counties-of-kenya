@@ -1,0 +1,49 @@
+Code,County,Former Province,Area (km2),PopulationCensus (2009),Capital
+1,Mombasa (County),Coast,212.5,"939,370",Mombasa (City)
+2,Kwale,Coast,"8,270.3","649,931",Kwale
+3,Kilifi,Coast,"12,245.9","1,109,735",Kilifi
+4,Tana River,Coast,"35,375.8","240,075",Hola
+5,Lamu,Coast,"6,497.7","191,539",Lamu
+6,Taita–Taveta,Coast,"17,083.9","284,657",Mwatate
+7,Garissa,North Eastern,"45,720.2","623,060",Garissa
+8,Wajir,North Eastern,"55,840.6","661,941",Wajir
+9,Mandera,North Eastern,"25,797.7","1,025,756",Mandera
+10,Marsabit,Eastern,"66,923.1","291,166",Marsabit
+11,Isiolo,Eastern,"25,336.1","143,294",Isiolo
+12,Meru,Eastern,"6,930.1","1,356,301",Meru
+13,Tharaka-Nithi,Eastern,"2,409.5","365,330",Kathwana
+14,Embu,Eastern,"2,555.9","516,212",Embu
+15,Kitui,Eastern,"24,385.1","1,012,709",Kitui
+16,Machakos,Eastern,"5,952.9","1,098,584",Machakos
+17,Makueni,Eastern,"8,008.9","884,527",Wote
+18,Nyandarua,Central,"3,107.7","596,268",Ol Kalou
+19,Nyeri,Central,"2,361.0","693,558",Nyeri
+20,Kirinyaga,Central,"1,205.4","528,054",Kerugoya / Kutus
+21,Murang'a,Central,"2,325.8","942,581",Murang'a
+22,Kiambu,Central,"2,449.2","1,623,282",Kiambu
+23,Turkana,Rift Valley,"71,597.8","855,399",Lodwar
+24,West Pokot,Rift Valley,"8,418.2","512,690",Kapenguria
+25,Samburu,Rift Valley,"20,182.5","223,947",Maralal
+26,Trans-Nzoia,Rift Valley,"2,469.9","818,757",Kitale
+27,Uasin Gishu,Rift Valley,"2,955.3","894,179",Eldoret
+28,Elgeyo-Marakwet,Rift Valley,"3,049.7","369,998",Iten
+29,Nandi,Rift Valley,"2,884.5","752,965",Kapsabet
+30,Baringo,Rift Valley,"11,075.3","555,561",Kabarnet
+31,Laikipia,Rift Valley,"8,696.1","399,227",Nanyuki
+32,Nakuru,Rift Valley,"7,509.5","1,603,325",Nakuru
+33,Narok,Rift Valley,"17,921.2","850,920",Narok
+34,Kajiado,Rift Valley,"21,292.7","687,312",Kajiado
+35,Kericho,Rift Valley,"2,454.5","752,396",Kericho
+36,Bomet,Rift Valley,"1,997.9","730,129",Bomet
+37,Kakamega,Western,"3,033.8","1,660,651",Kakamega
+38,Vihiga,Western,531.3,"554,622",Vihiga
+39,Bungoma,Western,"2,206.9","1,375,063",Bungoma
+40,Busia,Western,"1,628.4","743,946",Busia
+41,Siaya,Nyanza,"2,496.1","842,304",Siaya
+42,Kisumu,Nyanza,"2,009.5","968,909",Kisumu(City)
+43,Homa Bay,Nyanza,"3,154.7","963,794",Homa Bay
+44,Migori,Nyanza,"2,586.4","917,170",Migori
+45,Kisii,Nyanza,"1,317.9","1,152,282",Kisii
+46,Nyamira,Nyanza,912.5,"598,252",Nyamira
+47,Nairobi (County),Nairobi (Province),694.9,"3,138,369",Nairobi (City)
+,,,"581,309.0","38,610,997",Nairobi
